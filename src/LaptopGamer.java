@@ -11,5 +11,6 @@ public class LaptopGamer extends Laptop{
         System.out.println("Marca: " + marca);
         System.out.println("Modelo: " + modelo);
         System.out.println("Prueba gráfica completada.\n");
-
+    }
+    
 }
