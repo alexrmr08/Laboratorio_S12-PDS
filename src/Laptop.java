@@ -1,7 +1,4 @@
-package src;
-
 public abstract class Laptop {
-
     protected String marca;
     protected String modelo;
     protected int anioFabricacion;
@@ -17,5 +14,5 @@ public abstract class Laptop {
     }
 
     public abstract void ejecutarPrueba();
-
+    
 }
