@@ -1,11 +1,6 @@
 public class LaptopProfesional extends Laptop {
     
-    public LaptopProfesional(String marca,
-                             String modelo,
-                             int anioFabricacion,
-                             String procesador,
-                             int tamanioPantalla) {
-
+    public LaptopProfesional(String marca, String modelo, int anioFabricacion, String procesador, int tamanioPantalla) {
         super(marca, modelo, anioFabricacion, procesador, tamanioPantalla);
     }
 
