@@ -8,7 +8,7 @@ Se desea crear tres modelos de laptops - uno basico, uno gamer y uno profesional
 
 ## Diagrama UML
 
-// Imagen del diagrama UML del proyecto.
+![Diagrama UML](src/imagen_Diagrama/Diagrama_UML-Patrón_Adapter.png)
 
 ## Estructura del proyecto
 
