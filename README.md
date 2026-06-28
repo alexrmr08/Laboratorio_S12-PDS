@@ -8,7 +8,7 @@ Se desea crear tres modelos de laptops - uno basico, uno gamer y uno profesional
 
 ## Diagrama UML
 
-![Diagrama UML](src/imagen_Diagrama/Diagrama_UML-Patrón_Adapter.png)
+![Diagrama UML](src/imagen_Diagrama/Diagrama_UML-Patron_Adapter.png)
 
 ## Estructura del proyecto
 
@@ -17,7 +17,7 @@ LABORATORIO_S11-PDS/
 │
 ├── src/
 │   ├-- imagen_Diagrama/
-│   │       ├
+│   │       └── Diagrama_UML-Patron_Adapter.png
 │   ├── Cafe.java                    // Componente base
 │   ├── TostadoNegro.java            // Componente concreto
 │   ├── Batido.java                  // Componente concreto
