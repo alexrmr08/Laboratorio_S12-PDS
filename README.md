@@ -29,6 +29,7 @@ LABORATORIO_S11-PDS/
 │   ├── Soya.java                    // Decorador concreto
 │   ├── Crema.java                   // Decorador concreto
 │   └── Main.java                    // Clase principal
+├── .gitignore
 └── README.md
 ```
 
